@@ -1,4 +1,4 @@
-# gmock-more-arguments
+# gmock-more-args
 This header-only library add gmock functionality for methods with number of arguments from 11 up to 15.
 
 # USING
